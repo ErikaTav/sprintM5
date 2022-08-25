@@ -1,0 +1,27 @@
+.textolado {
+    display: flex;
+    gap: 30px;
+  }
+  .texto {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 80%;
+    padding-left: 200px;
+    text-align: start;
+    color: #888888;
+  }
+  .formulario {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    width: 50%;
+    margin: 50px 0px;
+  }
+  .h1 {
+    margin: 20px;
+  }
+  .p{
+    text-align: start;
+  }
+  
